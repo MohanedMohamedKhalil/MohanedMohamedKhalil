@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohaned Mohamed</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Programming" width="400" src="https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1">
+<img align="right" alt="Programming" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png">
 
 
 - 📫 How to reach me **mohanedmohamed41@gmail.com**
