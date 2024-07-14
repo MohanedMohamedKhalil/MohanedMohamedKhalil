@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohaned Mohamed</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Programming" width="400" src="https://media.licdn.com/dms/image/D5612AQFSVrEIJxq_aA/article-cover_image-shrink_720_1280/0/1679683081898?e=2147483647&v=beta&t=d8KpKMT3eVcN4wxDI8mVs5P3htV85wdrKeiCn5dqbow">
+<img align="right" alt="Programming" width="400" src="https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1">
 
 
 - 📫 How to reach me **mohanedmohamed41@gmail.com**
